@@ -3,4 +3,6 @@
 forth file text
 
 все так все
+This file was modified in the feature branch
+
 
