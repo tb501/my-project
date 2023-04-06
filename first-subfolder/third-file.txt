@@ -1,4 +1,9 @@
 Third file text
 
+<<<<<<< HEAD
 Also changed in the main branch
 
+=======
+
+тра ля-ля-ля
+>>>>>>> new-feature

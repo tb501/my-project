@@ -1,4 +1,9 @@
 Second file text
 
+<<<<<<< HEAD
 Ñhanges made in
  the main branch
+=======
+
+Òóö-òóö äóö-äóö
+>>>>>>> new-feature
